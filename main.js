@@ -15,7 +15,7 @@ btn.addEventListener('click', () => {
 fiesta.addEventListener('click', () => {
     inter = setInterval(() => {
         getCat(true)
-    }, 500)
+    }, 200)
 })
 
 stop.addEventListener('click', () => {
